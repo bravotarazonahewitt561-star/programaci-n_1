@@ -4,7 +4,7 @@ using namespace std;
 int main (){
 	
 	int numero,numero1,numero2,numero3;
-	cout<<"ingrse 4 números de 1-100"<<" "<<endl;
+	cout<<"ingrse 4 nÃºmeros de 1-100"<<" "<<endl;
 	cin>>numero>>numero1>>numero2>>numero3;
 	
 	if(numero==2){
