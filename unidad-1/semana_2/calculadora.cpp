@@ -32,7 +32,7 @@ int main (){
 			cout<<"el resultado es:"<<total<<endl;
 			break;
 			case 4:
-				cout<<"elegiste división"<<endl;
+				cout<<"elegiste divisiÃ³n"<<endl;
 				cout<<"ingrese dos numeros"<<endl;
 				cin>>a>>b;
 				if(b != 0){
