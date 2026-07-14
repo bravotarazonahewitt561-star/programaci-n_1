@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 	
-	double precio,descuento,total;//double para numeros exactos y precisión decimales como:precios,compras, descuentos, etc.
+	double precio,descuento,total;//double para numeros exactos y precisiÃ³n decimales como:precios,compras, descuentos, etc.
 	cout<<"ingrese el precio "<<endl;
 	cin>>precio;
 	
